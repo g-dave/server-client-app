@@ -22,7 +22,10 @@ demo_content = [
     'keyB' : 'valueH'},
     {'id' : 4,
     'keyA' : 'valueI',
-    'keyB' : 'valueJ'}
+    'keyB' : 'valueJ'},
+    {'id' : 5,
+    'keyA' : 'valueK',
+    'keyB' : 'valueL'}
 ]
 
 @app.route('/', methods=['GET'])
